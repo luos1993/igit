@@ -1,1 +1,1 @@
-create a branch is quick
+create a branch is quick　and sample.
